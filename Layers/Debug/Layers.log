@@ -1,0 +1,12 @@
+﻿  Layers.cpp
+c:\users\hp\desktop\all code\cpp_workspace\layers\layers.cpp(555): warning C4348: 'Layers::Pool': redefinition of default parameter: parameter 7
+  c:\users\hp\desktop\all code\cpp_workspace\layers\layers.h(116): note: see declaration of 'Layers::Pool'
+c:\users\hp\desktop\all code\cpp_workspace\layers\layers.cpp(623): warning C4348: 'Layers::MaxPool': redefinition of default parameter: parameter 7
+  c:\users\hp\desktop\all code\cpp_workspace\layers\layers.h(130): note: see declaration of 'Layers::MaxPool'
+  Lenet5.cpp
+c:\users\hp\desktop\all code\cpp_workspace\layers\layers.cpp(555): warning C4348: 'Layers::Pool': redefinition of default parameter: parameter 7
+  c:\users\hp\desktop\all code\cpp_workspace\layers\layers.h(116): note: see declaration of 'Layers::Pool'
+c:\users\hp\desktop\all code\cpp_workspace\layers\layers.cpp(623): warning C4348: 'Layers::MaxPool': redefinition of default parameter: parameter 7
+  c:\users\hp\desktop\all code\cpp_workspace\layers\layers.h(130): note: see declaration of 'Layers::MaxPool'
+  Generating Code...
+  Layers.vcxproj -> C:\Users\HP\Desktop\ALL CODE\cpp_workspace\Layers\Debug\Layers.exe
