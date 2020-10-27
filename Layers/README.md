@@ -1,4 +1,4 @@
-#This is the introdution of the Layer file
+# This is the introdution of the Layer file
 + ***Layers.h*** contains all the apis' declaration;
 
 + ***Layer.cpp*** contains the implementation of the apis;
